@@ -4,8 +4,6 @@
 
 <a href="mailto:emilianoa@ciencias.unam.mx" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Emiliano%20Apodaca/Computer%20Scientist/Student/Bachelors%20Degree/dark/https%3A%2F%2Fscontent.fmex1-6.fna.fbcdn.net%2Fv%2Ft1.6435-9%2F36931379_1148022298672036_1630198585733677056_n.jpg%3F_nc_cat%3D104%26ccb%3D1-7%26_nc_sid%3D09cbfe%26_nc_eui2%3DAeGzykFaDoL_wpJU2Jmi5At-QSna4MY-P6tBKdrgxj4_q9uRxKEX0UuEAiplR6SnUyh0sXhMr3ru-kNgTZ5ImKIK%26_nc_ohc%3D7KmEt2yHvF8AX9JwzMH%26_nc_ht%3Dscontent.fmex1-6.fna%26oh%3D00_AfBdmEUxvwBJNBIapxglntOLXlzvdUNVpuIcXnSFfTLq3A%26oe%3D64191CE2)](https://www.linkedin.com/in/ricardo-emiliano-apodaca-cardiel-a706a0223/)
-
 ### Programing Languages 💻
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
